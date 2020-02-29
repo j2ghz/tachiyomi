@@ -454,4 +454,6 @@
     <string name="currently_reading">Нині чітається</string>
     <string name="paused">Призупинено</string>
     <string name="want_to_read">Хочу читати</string>
+    <string name="label_more">Більше</string>
+    <string name="unlock_app">Розблокувати Tachiyomi</string>
 </resources>
