@@ -163,7 +163,7 @@
     <string name="left_to_right_viewer">De la stânga la dreapta</string>
     <string name="right_to_left_viewer">De la dreapta la stânga</string>
     <string name="vertical_viewer">Vertical</string>
-    <string name="webtoon_viewer">Benzi desenate web</string>
+    <string name="webtoon_viewer">Webtoon</string>
     <string name="pager_viewer">Setări pagini</string>
     <string name="pref_image_decoder">Decodor de imagine</string>
     <string name="pref_image_scale_type">Tip de mărime</string>
@@ -454,4 +454,44 @@
     <string name="currently_reading">Acum citesc</string>
     <string name="paused">Întrerupt</string>
     <string name="want_to_read">Vreau să citesc</string>
+    <string name="label_more">Mai multe</string>
+    <string name="action_sort_latest_chapter">Cel mai recent capitol</string>
+    <string name="action_view_chapters">Vezi Capitolele</string>
+    <string name="action_cancel_all">Anulează tot</string>
+    <string name="pref_theme_mode">Temă</string>
+    <string name="theme_light">Alb</string>
+    <string name="theme_dark">Întunecat</string>
+    <string name="theme_system">Folosește tema de sistem</string>
+    <string name="pref_theme_dark">Variantă temă întunecată</string>
+    <string name="theme_dark_default">Implicit</string>
+    <string name="theme_dark_blue">Albastru Închis</string>
+    <string name="theme_dark_amoled">Negru AMOLED</string>
+    <string name="pref_manage_notifications">Setări notificări</string>
+    <string name="pref_category_security">Securitate</string>
+    <string name="lock_with_biometrics">Blocare prin amprentă</string>
+    <string name="lock_when_idle">Blocare după o perioadă de inactivitate</string>
+    <string name="lock_always">Blocare continuă</string>
+    <string name="lock_never">Nu bloca</string>
+    <plurals name="lock_after_mins">
+        <item quantity="one">După un minut</item>
+        <item quantity="few">După %1$s minute</item>
+        <item quantity="other">După %1$s minute</item>
+    </plurals>
+    <string name="secure_screen">Securitate ecran</string>
+    <string name="ext_updates_pending">Actualizare în așteptare</string>
+    <string name="pref_cutout_short">Afișează conținut în zonele decupate</string>
+    <string name="pref_webtoon_padding_vert">Margini verticale între pagini</string>
+    <plurals name="notification_chapters">
+        <item quantity="one">Capitolul %1$s</item>
+        <item quantity="few">Capitolul %1$s</item>
+        <item quantity="other">Capitolul %1$s</item>
+    </plurals>
+    <string name="notification_and_n_more">și alte %1$d</string>
+    <string name="information_cloudflare_bypass_failure">Nu s-a reușit evitarea Cloudflare</string>
+    <string name="information_webview_outdated">Vă rugăm să actualizați aplicația WebView pentru o mai bună compatibilitate</string>
+    <string name="channel_new_chapters">Capitole noi</string>
+    <string name="unlock_app">Deblochează Tachiyomi</string>
+    <string name="action_menu">Meniu</string>
+    <string name="secure_screen_summary">Ascunde conținutul aplicației la schimbarea între aplicații și nu permite captura de ecran</string>
+    <string name="pref_category_display">Afișare</string>
 </resources>
