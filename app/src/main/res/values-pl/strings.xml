@@ -7,7 +7,7 @@
     <string name="label_settings">Ustawienia</string>
     <string name="label_download_queue">Kolejka pobierania</string>
     <string name="label_catalogues">Katalogi</string>
-    <string name="label_recent_manga">Ostatnio czytane</string>
+    <string name="label_recent_manga">Ostatnie</string>
     <string name="action_settings">Ustawienia</string>
     <string name="action_filter">Filtrowanie</string>
     <string name="action_filter_downloaded">Pobrane</string>
@@ -16,7 +16,7 @@
     <string name="action_search">Szukaj</string>
     <string name="action_select_all">Zaznacz wszystko</string>
     <string name="label_library">Biblioteka</string>
-    <string name="label_recent_updates">Ostatnie aktualizacje</string>
+    <string name="label_recent_updates">Aktualizacje</string>
     <string name="label_categories">Kategorie</string>
     <string name="label_backup">Kopia zapasowa</string>
     <string name="action_filter_bookmarked">Zakładki</string>
@@ -453,4 +453,39 @@ Nie znaleziono źródła %1$s</string>
     <string name="currently_reading">Obecnie czytane ponownie</string>
     <string name="paused">Wstrzymane</string>
     <string name="want_to_read">Chcę przeczytać</string>
+    <string name="label_more">Więcej</string>
+    <string name="action_sort_latest_chapter">Najnowszy rozdział</string>
+    <string name="action_view_chapters">Wyświetl rozdziały</string>
+    <string name="action_cancel_all">Anuluj wszystkie</string>
+    <string name="pref_theme_mode">Motyw aplikacji</string>
+    <string name="theme_light">Jasny</string>
+    <string name="theme_dark">Ciemny</string>
+    <string name="theme_system">Motyw systemowy</string>
+    <string name="pref_theme_dark">Rodzaj ciemnego motywu</string>
+    <string name="theme_dark_default">Domyślny</string>
+    <string name="theme_dark_blue">Ciemny niebieski</string>
+    <string name="theme_dark_amoled">Czarny AMOLED</string>
+    <string name="pref_manage_notifications">Zarządzaj powiadomieniami</string>
+    <string name="pref_category_security">Bezpieczeństwo</string>
+    <string name="lock_with_biometrics">Zablokuj biometrycznie</string>
+    <string name="lock_when_idle">Zablokuj w bezczynności</string>
+    <string name="lock_always">Zawsze</string>
+    <string name="lock_never">Nigdy</string>
+    <plurals name="lock_after_mins">
+        <item quantity="one">Po 1 minucie</item>
+        <item quantity="few">Po %1$s minutach</item>
+        <item quantity="many">Po %1$s minutach</item>
+    </plurals>
+    <string name="secure_screen">Zabezpiecz ekran</string>
+    <string name="ext_updates_pending">Oczekujące aktualizacje</string>
+    <string name="pref_cutout_short">Pokaż zawartość w obszarze wycięcia</string>
+    <string name="pref_webtoon_padding_vert">Pionowy odstęp między stronami</string>
+    <string name="notification_and_n_more">i %1$d więcej</string>
+    <string name="information_cloudflare_bypass_failure">Nie udało się obejść Cloudflare</string>
+    <string name="information_webview_outdated">Zaktualizuj aplikację WebView dla lepszej kompatybilności</string>
+    <string name="channel_new_chapters">Aktualizacje rozdziałów</string>
+    <string name="unlock_app">Odblokuj Tachiyomi</string>
+    <string name="action_menu">Menu</string>
+    <string name="secure_screen_summary">Ukryj zawartość podczas przełączania aplikacji i zablokuj zrzuty ekranu</string>
+    <string name="pref_category_display">Wyświetlanie</string>
 </resources>
