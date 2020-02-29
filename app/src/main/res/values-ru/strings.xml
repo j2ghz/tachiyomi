@@ -9,7 +9,7 @@
     <string name="action_display">Отобразить</string>
     <string name="action_display_grid">Сетка</string>
     <string name="action_display_list">Список</string>
-    <string name="action_display_mode">Изменить отображение</string>
+    <string name="action_display_mode">Режим отображения</string>
     <string name="action_download">Загрузить</string>
     <string name="action_edit">Изменить</string>
     <string name="action_edit_categories">Изменить категорию</string>
@@ -322,7 +322,7 @@
     <string name="manga_info_last_chapter_label">Последняя глава</string>
     <string name="no_more_results">Больше нет результатов</string>
     <string name="notification_new_chapters_text">Для %1$d тайтлов</string>
-    <string name="pref_backup_directory">Каталог бэкапа</string>
+    <string name="pref_backup_directory">Директория резервное копии</string>
     <string name="pref_backup_interval">Частота бэкапа</string>
     <string name="pref_backup_service_category">Служба</string>
     <string name="pref_backup_slots">Максимальное количество бэкапов</string>
@@ -350,7 +350,7 @@
     <string name="action_global_search">Глобальный поиск</string>
     <string name="action_display_download_badge">Значок загруженных</string>
     <string name="action_open">Открыть</string>
-    <string name="action_login">Логин</string>
+    <string name="action_login">Войти</string>
     <string name="local_source_badge">Локальная</string>
     <string name="other_source">Другие</string>
     <string name="action_global_search_hint">Глобальный поиск…</string>
@@ -445,7 +445,7 @@
     <string name="ext_obsolete">Устарело</string>
     <string name="obsolete_extension_message">Это дополнение больше недоступно.</string>
     <string name="pref_date_format">Формат даты</string>
-    <string name="pref_category_library_update">Обновить</string>
+    <string name="pref_category_library_update">Обновление</string>
     <string name="pref_category_library_categories">Категории</string>
     <string name="logout_title">Выйти из %1$s\?</string>
     <string name="logout">Выйти</string>
@@ -489,4 +489,8 @@
     <string name="information_cloudflare_bypass_failure">Не удалось обойти Cloudflare</string>
     <string name="information_webview_outdated">Пожалуйста, обновите WebView для лучшей совместимости</string>
     <string name="channel_new_chapters">Обновления глав</string>
+    <string name="unlock_app">Разблокировать Tachiyomi</string>
+    <string name="action_menu">Меню</string>
+    <string name="secure_screen_summary">Скрыть содержимое приложения при переключении между приложениями и блокировать скриншоты</string>
+    <string name="pref_category_display">Дисплей</string>
 </resources>
