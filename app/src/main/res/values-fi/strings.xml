@@ -475,4 +475,8 @@
         <item quantity="one">Minuutin jälkeen</item>
         <item quantity="other">%1$s minuutin jälkeen</item>
     </plurals>
+    <string name="channel_new_chapters">Lukujen päivitykset</string>
+    <string name="unlock_app">Avaa Tachiyomi</string>
+    <string name="action_menu">Valikko</string>
+    <string name="pref_category_display">Näyttö</string>
 </resources>
